@@ -7,6 +7,8 @@ _Mini-project for Coursera MOOC_
 
 Deployed URL: [https://outlive-mini-project.netlify.app](https://outlive-mini-project.netlify.app)
 
+Reference Site: [Airbnb](https://www.airbnb.com/)
+
 ## Screenshots
 
 HTML Markup  
